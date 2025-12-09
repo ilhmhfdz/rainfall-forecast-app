@@ -1,5 +1,7 @@
 
 
+---
+
 ```markdown
 # 🌧️ Bogor Rainfall Forecasting App  
 **Machine Learning for Climate Risk & Operational Decision Support**
@@ -118,11 +120,35 @@ streamlit run app.py
 
 **Ilham Hafidz**
 Aspiring Data Scientist — Machine Learning Enthusiast
-📧 Email: ilhamhafidz666@gmail.com
-
+📧 Email: *(isi email kamu di sini)*
+🔗 LinkedIn: *(insert link linkedin kamu di sini)*
+🌐 Portfolio: *(optional kalau ada)*
 
 ---
 
 ### ⭐ If you like this project, please give it a star on GitHub!
 
 ---
+
+```
+
+---
+
+Kalau kamu mau, gue **bisa tambahin juga**:
+
+✨ Badge GitHub, Model Performance Card  
+📌 Screenshot UI biar visual menarik  
+🧠 Penjelasan model tuning & reasoning  
+📍 Section “Use Case in Real Industries”
+
+---
+
+Kalau kamu setuju, sekalian gua bantu bikinin **slide presentasi singkat** buat HR nanti (pitch 1–2 menit) 🔥
+
+Would you like me to also help:  
+✔ Update README langsung ke repo kamu?  
+✔ Buat section Experience buat di CV kamu?  
+✔ Optimasi LinkedIn biar cocok ke Data Scientist Intern?
+
+Ayo kita gaskeun biar HR langsung *kepincut* portfolio kamu 😎🚀
+```
