@@ -183,6 +183,10 @@ st.sidebar.markdown("---")
 months_ahead = years_ahead * 12
 future = forecast_months(model, history, n_lags, months_ahead)
 
+with st.spinner("Menghitung forecast curah hujan..."):
+    future = forecast_months(model, history, n_lags, months_ahead)
+
+
 start_forecast_year = last_date.year + 1
 end_forecast_year = start_forecast_year + years_ahead - 1
 
