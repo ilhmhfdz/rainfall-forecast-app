@@ -52,5 +52,45 @@ Solusi ini memberikan dukungan keputusan berbasis data untuk sektor publik & ind
 
 ---
 
-## 🗂️ Project Structure
+
+
+## 🛠️ Tech Stack
+
+- Python (NumPy, Pandas)
+- Scikit-learn (Random Forest)
+- Plotly (Visualization)
+- Streamlit (Deployment)
+- GitHub (Version Control)
+
+---
+
+## 🧪 How to Run Locally
+
+```bash
+git clone https://github.com/ilhmhfdz/rainfall-forecast-app
+cd rainfall-forecast-app
+
+python3 -m venv .venv
+source .venv/bin/activate  # MacOS/Linux
+# .venv\Scripts\activate   # Windows
+
+pip install -r requirements.txt
+streamlit run app.py
+
+📌 Future Improvements
+
+RNN/LSTM atau Prophet untuk forecast lebih akurat
+
+Insight berbasis LLM (OpenAI / local model)
+
+Download hasil dalam format PDF/Excel
+
+API BMKG untuk multi-kota Indonesia
+
+👨‍💻 Author — Ilham Hafidz
+
+Aspiring Data Scientist | Machine Learning Enthusiast
+📍 Indonesia
+📧 Email: ilhamhafidz666@gmail.com
+
 
