@@ -87,9 +87,9 @@ Download hasil dalam format PDF/Excel
 
 API BMKG untuk multi-kota Indonesia
 
----
 
-👨‍💻 Author — Ilham Hafidz
+
+## 👨‍💻 Author — Ilham Hafidz
 
 Aspiring Data Scientist | Machine Learning Enthusiast
 📍 Indonesia
